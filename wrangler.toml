@@ -8,5 +8,5 @@ main = "src/worker-vless.js"
 compatibility_date = "2024-04-15"
 
 [vars]
-UUID = ${UUID}
-PROXY_IP = ${PROXY_IP}
+#UUID = ${UUID}
+#PROXY_IP = ${PROXY_IP}
